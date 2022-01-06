@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Im looking for someone can solve our issue. 
 Find the missing data
-Learn how to macth.
+Learn how to match.
+Complete the missing fields of subheadings.
